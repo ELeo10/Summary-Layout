@@ -207,6 +207,15 @@ footer {
     background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
 }
 
+@media (max-width: 2560px) {
+
+    .center {
+        height: auto;
+        width: auto;
+    }
+
+}
+
 @media (max-width: 1440px) {
 
     .center {
